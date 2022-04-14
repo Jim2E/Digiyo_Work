@@ -1,0 +1,207 @@
+/* screen - web-1920-1 */
+body {
+  zoom: 75%;
+}
+.web-1920-1 {
+  align-items: center;
+  background-color: var(--vulcan);
+  display: flex;
+  flex-direction: column;
+  height: 2000px;
+  width: 1920px;
+}
+
+.web-1920-1 .overlap-group7 {
+  height: 1080px;
+  position: relative;
+  width: 1920px;
+}
+
+.web-1920-1 .overlap-group1 {
+  align-items: center;
+  background-image: url(../img/intro-bg@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 1080px;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.web-1920-1 .homepage-link {
+  border: 2px solid black;
+  outline: #4caf50 solid 10px;
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.web-1920-1 .text-5 {
+  color: var(--bright-turquoise);
+  font-family: var(--font-family-pragmatica_extended);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 90px;
+  margin-left: 22px;
+  margin-top: 181px;
+  min-height: 552px;
+  width: 1492px;
+}
+
+.web-1920-1 .span0 {
+  color: var(--concrete);
+  font-family: var(--font-family-pragmaticaextended-bold);
+}
+
+.web-1920-1 .overlap-group5 {
+  height: 123px;
+  margin-top: 224px;
+  position: relative;
+  width: 1920px;
+}
+
+.web-1920-1 .rectangle-2 {
+  background: linear-gradient(180deg, #12151f 0%, rgba(18, 21, 31, 0) 100%);
+  height: 123px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(180deg);
+  width: 1920px;
+}
+
+.web-1920-1 .group-340 {
+  align-items: flex-end;
+  background: linear-gradient(180deg, #12151f 0%, rgba(18, 21, 31, 0.3) 100%);
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 76px;
+  padding: 0 73px;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.web-1920-1 .flex-row {
+  align-items: center;
+  display: flex;
+  margin-top: 20px;
+  min-width: 1772px;
+}
+
+.web-1920-1 .group-337 {
+  align-items: center;
+  display: flex;
+  min-width: 113px;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.web-1920-1 .group-335 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 0;
+  min-width: 35px;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.web-1920-1 .overlap-group3 {
+  height: 24px;
+  position: relative;
+  width: 35px;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.web-1920-1 .path-69 {
+  height: 24px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 26px;
+}
+
+.web-1920-1 .path-70 {
+  height: 24px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 26px;
+}
+
+.web-1920-1 .group-336 {
+  align-items: flex-start;
+  display: flex;
+  height: 36px;
+  margin-left: 4px;
+  min-width: 73px;
+}
+
+.web-1920-1 .path-71 {
+  height: 29px;
+  object-fit: cover;
+  width: 13px;
+}
+
+.web-1920-1 .path-7 {
+  height: 28px;
+  margin-left: 3px;
+  object-fit: cover;
+  width: 4px;
+}
+
+.web-1920-1 .path-73 {
+  align-self: flex-end;
+  height: 29px;
+  margin-left: 2px;
+  object-fit: cover;
+  width: 13px;
+}
+
+.web-1920-1 .overlap-group4 {
+  height: 28px;
+  margin-left: 1px;
+  position: relative;
+  width: 28px;
+}
+
+.web-1920-1 .path-75 {
+  height: 28px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+.web-1920-1 .path-76 {
+  height: 21px;
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 13px;
+}
+
+.web-1920-1 .line-1 {
+  align-self: center;
+  height: 2px;
+  margin-top: 18px;
+  object-fit: cover;
+  width: 1770px;
+}
+
+.web-1920-1 .line {
+  height: 2px;
+  margin-top: 57px;
+  object-fit: cover;
+  width: 1770px;
+}
