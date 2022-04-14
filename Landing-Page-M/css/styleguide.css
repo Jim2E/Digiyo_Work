@@ -1,0 +1,183 @@
+:root {
+  --bright-turquoise: #05f4b7;
+  --concrete: #f2f2f2;
+  --ebony-clay: #232838;
+  --scarpa-flow: #505566;
+  --vulcan: #12151f;
+
+  --font-size-l: 18px;
+  --font-size-m: 14px;
+  --font-size-s: 11px;
+  --font-size-xl: 24px;
+  --font-size-xxl: 48px;
+  --font-size-xxxl: 100px;
+  --font-size-xxxxl: 120px;
+
+  --font-family-pragmatica-bold: "Pragmatica-Bold", Helvetica;
+  --font-family-pragmatica-book: "Pragmatica-Book", Helvetica;
+  --font-family-pragmatica_extended: "Pragmatica Extended", Helvetica;
+  --font-family-pragmaticaextended-bold: "PragmaticaExtended-Bold", Helvetica;
+  --font-family-pragmaticaextended-extrabold: "PragmaticaExtended-ExtraBold", Helvetica;
+}
+.pragmatica-book-normal-concrete-14px {
+  color: var(--concrete);
+  font-family: var(--font-family-pragmatica-book);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.pragmaticaextended-bold-concrete-24px {
+  color: var(--concrete);
+  font-family: var(--font-family-pragmaticaextended-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.pragmaticaextended-bold-concrete-11px {
+  color: var(--concrete);
+  font-family: var(--font-family-pragmaticaextended-bold);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.pragmatica-book-normal-concrete-18px {
+  color: var(--concrete);
+  font-family: var(--font-family-pragmatica-book);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.pragmatica-book-normal-concrete-48px {
+  color: var(--concrete);
+  font-family: var(--font-family-pragmatica-book);
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.pragmatica-bold-concrete-24px {
+  color: var(--concrete);
+  font-family: var(--font-family-pragmatica-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.pragmatica-bold-concrete-14px {
+  color: var(--concrete);
+  font-family: var(--font-family-pragmatica-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.pragmatica-bold-concrete-16px {
+  color: var(--concrete);
+  font-family: var(--font-family-pragmatica-bold);
+  font-size: 52px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.pragmatica-bold-concrete-8px {
+  color: var(--concrete);
+  font-family: var(--font-family-pragmatica-book);
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.pragmatica-concrete-8px {
+  color: var(--concrete);
+  font-family: var(--font-family-pragmatica-book);
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.pragmaticaextended-extra-bold-concrete-48px {
+  color: var(--concrete);
+  font-family: var(--font-family-pragmaticaextended-extrabold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.pragmaticaextended-extra-bold-concrete-new {
+  color: var(--concrete);
+  font-family: var(--font-family-pragmaticaextended-extrabold);
+  font-size:48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 80px;
+}
+
+.pragmaticaextended-extra-bold-concrete-new-1 {
+  color: var(--concrete);
+  font-family: var(--font-family-pragmaticaextended-extrabold);
+  font-size: 52px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 80px;
+}
+
+.pragmaticaextended-extra-bold-concrete-new-2 {
+  color: var(--concrete);
+  font-family: var(--font-family-pragmaticaextended-extrabold);
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 80px;
+}
+
+.pragmaticaextended-bold-concrete-150px {
+  color: var(--concrete);
+  font-family: var(--font-family-pragmaticaextended-bold);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.pragmaticaextended-bold-bright-turquoise-24px {
+  color: var(--bright-turquoise);
+  font-family: var(--font-family-pragmaticaextended-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.pragmaticaextended-bold-bright-turquoise-36px {
+  color: var(--bright-turquoise);
+  font-family: var(--font-family-pragmaticaextended-bold);
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.pragmaticaextended-bold-bright-turquoise-48px {
+  color: var(--bright-turquoise);
+  font-family: var(--font-family-pragmaticaextended-bold);
+  font-size: 47px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.pragmaticaextended-bold-bright-turquoise-48px-new {
+  color: var(--bright-turquoise);
+  font-family: var(--font-family-pragmaticaextended-bold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.pragmaticaextended-bold-bright-turquoise-48px-newer {
+  color: var(--bright-turquoise);
+  font-family: var(--font-family-pragmaticaextended-bold);
+  font-size: 55px;
+  font-style: normal;
+  font-weight: 700;
+}

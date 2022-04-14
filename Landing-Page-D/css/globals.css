@@ -1,0 +1,46 @@
+@font-face {
+  font-family: "PragmaticaExtended-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/PragmaticaExtendedBold.otf") format("opentype");
+}
+@font-face {
+  font-family: "PragmaticaExtended-ExtraBold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/PragmaticaExtendedExtraBold.otf") format("opentype");
+}
+@font-face {
+  font-family: "Pragmatica-Book";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/ParaType - Pragmatica Book.otf") format("opentype");
+}
+@font-face {
+  font-family: "Pragmatica-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/ParaType - Pragmatica Bold.otf") format("opentype");
+}
+.screen textarea:focus,
+.screen input:focus {
+  outline: none;
+}
+
+.screen * {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+
+.screen div {
+  -webkit-text-size-adjust: none;
+}
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}

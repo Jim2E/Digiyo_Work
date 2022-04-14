@@ -1,0 +1,2183 @@
+/* screen - landing */
+
+.landing {
+  background-color: var(--vulcan);
+  /*height: 10510px;*/
+  height: 9500px;
+  margin: 0px;
+  /*min-height: 10510px;*/
+  min-height: 9500px;
+  min-width: 100%;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  margin-left:auto;
+  margin-right:auto;
+  width:100%;
+}
+
+.footer .feet {
+  display: inline;
+}
+
+.footer .feet:hover {
+  cursor: pointer;
+  text-shadow: 0px 4px 10px #05f4b7;
+}
+
+.landing .path-103 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.landing .path-104 {
+  background-color: transparent;
+  bottom: calc(33.19% - 1px);
+  height: 5px;
+  left: calc(35.85% - 1px);
+  object-fit: cover;
+  position: absolute;
+  width: 4px;
+}
+
+.landing .path-105 {
+  background-color: transparent;
+  height: 19px;
+  left: calc(42.21% - 3px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(21.47% - 4px);
+  width: 6px;
+}
+
+.landing .white-font{
+  color: white;
+}
+
+.landing .nft-games-section{
+  background-color: transparent;
+  margin-left:auto;
+  margin-right:auto;
+  position: relative;
+  top: auto;
+  width: 100%;
+}
+
+
+.landing .nft-games-background{
+  background-color: transparent;
+  height: 100%;
+  position: relative;
+  top: auto;
+  width: 100%;
+  object-fit: cover;
+  background-position: top right;
+  background-repeat: no-repeat;
+}
+
+.landing .nft-games-list-loc{
+  height: 100%;
+  position: relative;
+  top: auto;
+  width: 100%;
+}
+
+.landing .nft-games-list {
+  line-height: 160%;
+  list-style-type: none;
+  text-align: left;
+  padding-top: 0%;
+  top: 50%;
+  transform: translateY(-50%);
+  position: absolute;
+}
+
+.landing .nft-games{
+  background-color: transparent;
+  height: 152px;
+  left: 0%;
+  letter-spacing: 0px;
+  line-height: 90px;
+  position: absolute;
+  text-align: left;
+  /* text-shadow: 0px 3px 50px #0034dd; */
+  top: 30px;
+  width: 100%;
+}
+
+.landing .x01-CacAit {
+  background-color: transparent;
+  height: 13px;
+  left: 0px;
+  letter-spacing: 1.65px;
+  line-height: 90px;
+  opacity: 0.5;
+  position: absolute;
+  text-align: right;
+  text-shadow: 0px 3px 50px #12151f;
+  top: calc(36.06% - 5px);
+  white-space: nowrap;
+  width: 122px;
+}
+
+.landing .nft-games-line {
+  background-color: transparent;
+  height: 2px;
+  left: 2.5%;
+  right: 2.5%;
+  object-fit: cover;
+  position: absolute;
+  bottom: 0;
+  width: 95%;
+}
+
+.landing .list-line {
+  background-color: transparent;
+  height: 1px;
+  left: 2.5%;
+  right: 2.5%;
+  object-fit: cover;
+  position: absolute;
+  bottom: 0;
+  width: 95%;
+}
+
+.landing .nft-games-desc-sec{
+  background-image: url("../img/character_Anim2_background.png");
+  background-repeat: no-repeat;
+  background-position: right;
+  height: 20%;
+  left: 0px;
+  position: relative;
+  top: auto;
+  width: 100%;
+}
+
+.landing .nft-games-desc {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  letter-spacing: 0px;
+  position: relative;
+  text-align: left;
+  top: auto;
+  width:75%;
+  /*width: 49.21%;*/
+}
+/*
+.landing .nft-games-desc-background{
+  background-image: url("../img/character_Anim2_background.png");
+  background-repeat: no-repeat;
+  height:100%;
+  position: relative;
+  top: 0;
+  right:0;
+  object-fit: cover;
+  width: 100%;
+}
+*/
+.landing .nft-games-desc-1 {
+  font-size: 36px;
+  line-height: 49px;
+  /* font-family:; */
+}
+
+.landing .wrestling-banner {
+  background: linear-gradient(180deg, #12151f 0%, #1a1e2b 100%);
+  /*background-color: transparent;*/
+  background-image: url("../img/game1@1x.png");
+  background-position: right;
+  background-repeat: no-repeat;
+  height: 25%;
+  left: 0px;
+  position: relative;
+  top: auto;
+  width: 100%;
+}
+
+.landing .digiyo-wrestling-outer {
+  background-color: transparent;
+  height: 248px;
+  left: 10%;
+  position: absolute;
+  top: calc(38.7% - 106px);
+  width: 50.63%;
+  /* text-shadow: 0px 3px 50px #0034dd; */
+}
+
+.landing .digiyo-wrestling-inner {
+  background-color: transparent;
+  bottom: 0.79%;
+  height: 45px;
+  left: 0px;
+  letter-spacing: 0px;
+  line-height: 25.2px;
+  position: absolute;
+  text-align: left;
+  width: calc(100% + 2px);
+}
+
+.landing .digiyo-wrestling-text {
+  background-color: transparent;
+  color: var(--concrete);
+  font-family: var(--font-family-pragmaticaextended-bold);
+  font-size: 75px;
+  font-style: normal;
+  font-weight: 700;
+  height: 147px;
+  left: 0px;
+  letter-spacing: 0px;
+  line-height: 80px;
+  position: absolute;
+  text-align: left;
+  top: -10%;
+  width: 100%;
+}
+
+.landing #marketplace-anchor {
+  z-index: 999;
+}
+
+.landing .marketplace-outer {
+  background-color: transparent;
+  bottom: calc(38.45% - 20px);
+  height: 50px;
+  left: 10%;
+  position: absolute;
+  width: 246px;
+}
+
+.landing .marketplace-outer:hover {
+  box-shadow: 0px 0px 10px #05f4b7;
+  border-radius: 4px;
+}
+
+.landing .marketplace-inner {
+  background-color: var(--ebony-clay);
+  border-radius: 4px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.landing .marketplace-text {
+  background-color: transparent;
+  color: var(--concrete);
+  text-align: center;
+  margin: 0;
+  top: 50%;
+  text-align: center;
+  transform: translateY(-50%);
+  position: absolute;
+  width: 100%;
+}
+
+.landing .mma-banner {
+  background: linear-gradient(180deg, #12151f 0%, #1a1e2b 100%);
+  background-image: url("../img/muy-thai-banner.png");
+  background-position: left;
+  background-repeat: no-repeat; 
+  bottom: 0px;
+  height: 25%;
+  left: 0px;
+  position: relative;
+  width: 100%;
+  top: auto;
+}
+
+.landing .digiyo-mma-outer {
+  background-color: transparent;
+  bottom: calc(60.12% - 41px);
+  height: 178px;
+  left: 75%;
+  position: absolute;
+  width: 50.63%;
+}
+
+.landing .digiyo-mma-inner {
+  background-color: transparent;
+  bottom: calc(1.2% - 1px);
+  height: 45px;
+  left: 0px;
+  letter-spacing: 0px;
+  line-height: 25.2px;
+  position: absolute;
+  text-align: left;
+  width: calc(100% + 2px);
+}
+
+.landing .digiyo-mma-text {
+  background-color: transparent;
+  color: var(--concrete);
+  font-family: var(--font-family-pragmaticaextended-bold);
+  font-size: 75px;
+  font-style: normal;
+  font-weight: 700;
+  height: 77px;
+  left: -20%;
+  letter-spacing: 0px;
+  line-height: 80px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 50%;
+}
+
+.landing .mma-coming-soon-box {
+  background-color: transparent;
+  bottom: calc(41.45% - 20px);
+  height: 50px;
+  left: 65%;
+  position: absolute;
+  width: 246px;
+}
+
+.landing .mma-coming-soon-box:hover {
+  box-shadow: 0px 0px 10px #05f4b7;
+  border-radius: 4px;
+}
+
+.landing .mma-coming-soon-text {
+  background-color: transparent;
+  text-align: center;
+  margin: 0;
+  top: 50%;
+  text-align: center;
+  transform: translateY(-50%);
+  position: absolute;
+  width: 100%;
+}
+
+.landing .football-banner {
+  background: linear-gradient(180deg, #12151f 0%, #1a1e2b 100%);
+  background-image: url("../img/acf0500953a6c3bb4461404e40ec6a7b@1x.png");
+  background-position: right;
+  background-repeat: no-repeat;
+  height: 25%;
+  left: 0px;
+  position: relative;
+  width: 100%;
+  top: auto;
+}
+
+.landing .digiyo-football-outer {
+  background-color: transparent;
+  top: calc(29.12% - 41px);
+  height: 178px;
+  left: 10%;
+  position: absolute;
+  width: 40.63%;
+}
+
+.landing .digiyo-football-inner {
+  background-color: transparent;
+  bottom: calc(1.2% - 1px);
+  height: 45px;
+  left: 0px;
+  letter-spacing: 0px;
+  line-height: 25.2px;
+  position: absolute;
+  text-align: left;
+  width: calc(100% + 2px);
+}
+
+.landing .digiyo-football-text {
+  background-color: transparent;
+  color: var(--concrete);
+  font-family: var(--font-family-pragmaticaextended-bold);
+  font-size: 75px;
+  font-style: normal;
+  font-weight: 700;
+  height: 100%;
+  left: 0px;
+  letter-spacing: 0px;
+  line-height: 80px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 100%;
+}
+
+.landing .football-coming-soon-box {
+  background-color: transparent;
+  bottom: calc(39.15% - 20px);
+  height: 50px;
+  left: 10%;
+  position: absolute;
+  width: 246px;
+}
+
+.landing .football-coming-soon-box:hover {
+  box-shadow: 0px 0px 10px #05f4b7;
+  border-radius: 4px;
+}
+
+.landing .football-coming-soon-text {
+  background-color: transparent;
+  text-align: center;
+  margin: 0;
+  top: 50%;
+  text-align: center;
+  transform: translateY(-50%);
+  position: absolute;
+  width: 100%;
+}
+
+.landing .rectangle-4-kfcZNL {
+  background-color: var(--ebony-clay);
+  border-radius: 4px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.landing .introbg-HlzXCz {
+  background-color: transparent;
+  height: 1080px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+  /*width: 1920px;*/
+}
+
+.landing .rectangle-2-HlzXCz {
+  background: linear-gradient(180deg, #12151f 0%, rgba(18, 21, 31, 0) 100%);
+  background-color: transparent;
+  height: 1.17%;
+  left: 0px;
+  position: absolute;
+  top: 9.11%;
+  transform: rotate(180deg);
+  width: 100%;
+}
+
+.landing .video-container {
+  position: relative;
+  top: 0%;
+  left: 0px;
+  width: 100%;
+  min-width: 100%;
+  max-width: 100%;
+  height: auto;
+  /*min-height: 1080px;
+  max-height: 1080px;*/
+}
+
+
+.landing .video-id {
+  display: block;
+  width: 99.98%;
+  max-width: 99.98%;
+  min-width: 99.98%;
+  height:auto;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.landing .the-first-3-d-n-eatecollectplay-HlzXCz {
+  background-color: transparent;
+  color: var(--bright-turquoise);
+  font-family: var(--font-family-pragmatica_extended);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  height: 552px;
+  left: 225px;
+  letter-spacing: 0px;
+  line-height: 90px;
+  position: absolute;
+  text-align: left;
+  top: 181px;
+  width: calc(100% - 428px);
+}
+
+.landing .span0-v2zbXo {
+  color: var(--concrete);
+  font-family: var(--font-family-pragmaticaextended-bold);
+  font-style: normal;
+}
+
+.landing .span1-v2zbXo {
+  font-family: var(--font-family-pragmaticaextended-bold);
+  font-style: normal;
+}
+
+.landing .line-2-HlzXCz {
+  background-color: transparent;
+  height: 0px;
+  left: 3.91%;
+  object-fit: cover;
+  position: absolute;
+  top: 9.98%;
+  width: 92.19%;
+}
+
+.landing .group-338-HlzXCz {
+  background-color: transparent;
+  height: 60px;
+  left: 225px;
+  position: absolute;
+  top: calc(9.16% - 5px);
+  width: calc(100% - 300px);
+}
+
+.landing .scroll-to-explore-nei9Nq {
+  background-color: transparent;
+  bottom: 4px;
+  color: var(--bright-turquoise);
+  font-family: var(--font-family-pragmatica-bold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+  height: 20px;
+  letter-spacing: 0px;
+  line-height: 30px;
+  position: absolute;
+  right: -2px;
+  text-align: right;
+  white-space: nowrap;
+  width: 143px;
+}
+
+.landing .lorem-ipsum-dol-res-et-ea-rebum-nei9Nq {
+  background-color: transparent;
+  bottom: calc(148% - 81px);
+  color: var(--bright-turquoise);
+  font-family: var(--font-family-pragmatica-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+  height: 55px;
+  left: 0px;
+  letter-spacing: 0px;
+  line-height: 28.8px;
+  position: absolute;
+  text-align: left;
+  width: calc(100% - 175px);
+}
+
+.landing .line-5-HlzXCz {
+  background-color: transparent;
+  height: 0px;
+  left: 3.91%;
+  object-fit: cover;
+  position: absolute;
+  top: 43.54%;
+  width: 92.19%;
+}
+
+.landing .nft-generator {
+  /*
+  background-color: transparent;
+  height: 52px;
+  left: 0%;
+  letter-spacing: 0px;
+  line-height: 90px;
+  position: absolute;
+  text-align: left;
+  top: calc(7.33% - 48px);
+  */
+  background-color: transparent;
+  height: 152px;
+  left: 0%;
+  letter-spacing: 0px;
+  line-height: 90px;
+  position: relative;
+  text-align: left;
+  top: 30px;
+  width: 100%;
+}
+
+.landing .nft-generator-line {
+  background-color: transparent;
+  height: 2px;
+  left: 2.5%;
+  right: 2.5%;
+  object-fit: cover;
+  position: absolute;
+  bottom: 0;
+  width: 95%;
+}
+
+
+.landing .nft-generator-section{
+  background-color: transparent;
+  height: 30%;
+  margin-left: auto;
+  margin-right:auto;
+  display:block;
+  position: relative;
+  top: auto;
+  width: 100%;
+}
+
+.landing .nft-gen-intro {
+  background-color: transparent;
+  height: 2%;
+  left: 3%;
+  letter-spacing: 0px;
+  position: relative;
+  text-align: left;
+  top: 1%;
+  width: 95%;
+}
+
+.landing .nft-gen-sec-1 {
+  background-color: transparent;
+  height: 20%;
+  left: 0;
+  position: relative;
+  top: 2.5%;
+  width: 100%;
+  line-height: 58px;
+}
+
+.landing .nft-gen-mint-blurb {
+  background-color: transparent;
+  height: 42.91%;
+  left: 15vw;
+  position: absolute;
+  text-align: left;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 35vw;
+}
+
+
+.landing .nft-gen-nil {
+  background-color: transparent;
+  height: auto;
+  right: 10vw;
+  object-fit: cover;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 40vw;
+}
+
+.landing .nft-gen-sec-2 {
+  background-color: transparent;
+  height: 20%;
+  left: 0;
+  letter-spacing: 0px;
+  line-height: 56px;
+  position: relative;
+  text-align: right;
+  top: 2.5%;
+  width: 100%;
+}
+
+.landing .nft-gen-group-photo-descr {
+  background-color: transparent;
+  height: 42.91%;
+  right: 10vw;
+  letter-spacing: 0px;
+  line-height: 76px; 
+  position: absolute;
+  text-align: left;
+  top: 31.62%;
+  width: 35vw;
+  /*width: 550px;*/
+}
+
+.landing .nft-gen-group-photo {
+  background-color: transparent;
+  /*margin-left: 0px;*/
+  left: 10vw;
+  margin-right: auto;
+  display: block;
+  object-fit: cover;
+  position: absolute;
+  transform: translateY(-50%);
+  top: 50%;
+  height: auto;
+  width: 45vw;
+
+}
+
+.landing .group-347-HlzXCz {
+  background-color: transparent;
+  bottom: calc(44.96% - 111px);
+  height: 247px;
+  left: 50.78%;
+  position: absolute;
+  width: 29.69%;
+}
+
+.landing .nft-gen-excl-wear {
+  background-color: transparent;
+  height: 162px;
+  /*left: 50%;*/
+  max-height: 250px;
+  left: 50%;
+  /*right: 25%;*/
+  letter-spacing: 0px;
+  line-height: 75px;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  /*width: 1000px;*/
+  width: 40%;
+}
+
+
+
+.landing .text-area-1 {
+  background-color: transparent;
+  top: 57%;
+  height: 630px;
+  left: calc(50% - 315px);
+  position: absolute;
+  width: 630px;
+}
+
+.landing .text-area-2 {
+  background-color: transparent;
+  bottom: calc(2.8% - 189px);
+  height: 379px;
+  left: 30px;
+  position: absolute;
+  width: calc(100% - 60px);
+  line-height: 40px;
+}
+
+
+.landing .nft-gen-sec-3 {
+  background-color: transparent;
+  height: 35%;
+  left: 0;
+  letter-spacing: 0px;
+  line-height: 56px;
+  position: relative;
+  text-align: right;
+  top: 2.5%;
+  width: 100%;
+}
+
+.landing .nft-gen-background-descr-2 {
+  /*background-image: url("../img/digiyo-dots.png");
+  background-position: top right;
+  background-repeat: no-repeat;
+  background-size: contain;*/
+  top: 0;
+  min-height: 100%;
+  min-width: 100%;
+  height: 100%;
+  position: absolute;
+  width: 100%;
+}
+
+.landing .merch-items-1 {
+  background-color: transparent;
+  margin-left: auto;
+  margin-right: auto;
+  object-fit: contain;
+  position: absolute; 
+  height: auto;
+  width: 26%;
+  left:-2%;
+  top: -2%;
+}
+.landing .merch-items-2 {
+  background-color: transparent;
+  margin-left: auto;
+  margin-right: auto;
+  object-fit: contain;
+  position: absolute; 
+  height: auto;
+  width: 23%;
+  left:9%;
+  top: 53%;
+}
+
+.landing .merch-items-3 {
+  background-color: transparent;
+  margin-left: auto;
+  margin-right: auto;
+  object-fit: contain;
+  position: absolute; 
+  height: auto;
+  width: 14%;
+  left:70%;
+  top: 57%;
+}
+
+.landing .merch-items-4 {
+  background-color: transparent;
+  margin-left: auto;
+  margin-right: auto;
+  object-fit: contain;
+  position: absolute; 
+  height: auto;
+  width: 23%;
+  left:70%;
+  top: -4%;
+}
+
+.landing .ellipse-1-j5f1mM {
+  background-color: transparent;
+  /*background-color: var(--vulcan);
+  border: 1px solid #1a1e2b;
+  border-radius: 315px;
+  filter: blur(50px);*/
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.landing .nft-lab-section{
+  background-color: transparent;
+  top: 0;
+  position: relative;
+  width: 100%;
+  height: 25%;
+}
+
+.landing .nft-lab {
+  background-color: transparent;
+  top: 0;
+  height: 152px;
+  left: 0;
+  letter-spacing: 0px;
+  line-height: 90px;
+  position: relative;
+  text-align: left;
+  width: 100%;
+}
+
+.landing .nft-lab-line-1 {
+  background-color: transparent;
+  bottom: 0;
+  height: 2px;
+  left: 2.5%;
+  right: 2.5%;
+  object-fit: cover;
+  position: absolute;
+  width: 95%;
+}
+
+.landing .nft-lab-grid {
+  background-color: transparent;
+  top:2.5%;
+  height: 600px;
+  left: 5%;
+  right: 5%;
+  position: relative;
+  width: 90%;
+}
+
+.landing .nft-lab-descrip {
+  background-color: transparent;
+  bottom: calc(23.83% - 23px);
+  height: 112px;
+  left: 225px;
+  letter-spacing: 0px;
+  line-height: 42.8px;
+  position: absolute;
+  text-align: left;
+  width: 65%;
+}
+
+.landing .business-inquires-orien {
+  background-color: transparent;
+  bottom: 16.3%;
+  height: 44px;
+  left: calc(49.91% - 121px);
+  position: absolute;
+  width: 243px;
+}
+
+.landing .rectangle-4-xvOGH9 {
+  background-color: var(--bright-turquoise);
+  border-radius: 4px;
+  box-shadow: 0px 0px 10px #05f4b7;
+  height: 113.64%;
+  left: 0px;
+  position: absolute;
+  top: -6.82%;
+  width: 101.65%;
+}
+
+.landing .partners-HlzXCz {
+  background-color: transparent;
+  height: 0px;
+  left: 3.91%;
+  letter-spacing: 1.65px;
+  line-height: 90px;
+  opacity: 0.5;
+  position: absolute;
+  text-align: right;
+  top: 91.22%;
+  white-space: nowrap;
+  width: 6.35%;
+}
+
+.landing .line-after-lab {
+  background-color: transparent;
+  height: 1px;
+  left: 10%;
+  right: 10%;
+  object-fit: cover;
+  position: absolute;
+  top: 83%;
+  width: 80%;
+}
+
+.landing .nft-lab-line-4 {
+  background-color: transparent;
+  bottom: 0;
+  height: 2px;
+  left: 10%;
+  right: 10%;
+  object-fit: cover;
+  position: absolute;
+  width: 80%;
+}
+
+.landing .contact-us-orien {
+  background-color: transparent;
+  bottom: 29%;
+  height: 0.48%;
+  left: 20%;
+  position: absolute;
+  /*top: 35.46%;*/
+  width: 10%;
+}
+
+.landing .contact-us-box {
+  background-color: var(--ebony-clay);
+  border-radius: 4px;
+  height: 50px;
+  left: 10%;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+  bottom: 25%;
+}
+
+.landing .footer {
+  display:block; 
+  width:1580px; 
+  margin-left: auto;
+  margin-right: auto;
+  /* bottom: 99%; */
+}
+
+.landing .coming-soon-qxDB4o {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 2.1px;
+  line-height: 16.8px;
+  position: absolute;
+  text-align: center;
+  top: 17px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.landing .mint-earn-engage-section {
+  background-color: transparent;
+  bottom: 0;
+  height: 15%;
+  position: absolute;
+  width: 100%;
+}
+
+.landing .group-352-irMBP3 {
+  background-color: transparent;
+  height: 247px;
+  left: 0px;
+  position: absolute;
+  top: calc(49.15% - 121px);
+  width: 43.58%;
+}
+
+.landing .create-mint-earn-header {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  letter-spacing: 0px;
+  line-height: 100px;
+  position: absolute;
+  text-align: left;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 100%;
+}
+
+.landing .create-mint-earn-text {
+  background-color: transparent;
+  height: 38.87%;
+  left: 0px;
+  letter-spacing: 0px;
+  line-height: 38.2px;
+  position: absolute;
+  text-align: left;
+  top: 99.49%;
+  width: 79.47%;
+}
+
+.landing .coin{
+  background-color: transparent;
+  height: 75%;
+  right: 0;
+  object-fit: contain;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: auto;
+}
+
+.landing .x01-ATWekx {
+  background-color: transparent;
+  height: 232px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 33.3%
+  /*width: 345px;*/
+}
+
+.landing .group-355-G74zTA {
+  background-color: transparent;
+  height: 232px;
+  left: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  top: 0px;
+  width: 345px;
+}
+
+.landing .group-354-4kAu9j {
+  background-color: transparent;
+  bottom: 0px;
+  height: 112px;
+  left: 0px;
+  position: absolute;
+  /*text-align: center;*/
+  width: 100%;
+}
+
+.landing .lorem-ipsum-dol-eos-et-accusam-GzL8yp {
+  background-color: transparent;
+  height: 66.96%;
+  left: 0px;
+  letter-spacing: 0px;
+  line-height: 19.6px;
+  position: absolute;
+  text-align: left;
+  top: 32.32%;
+  width: 100.58%;
+}
+
+.landing .x3-d-modelling-GzL8yp {
+  background-color: transparent;
+  height: 23.21%;
+  left: 0px;
+  letter-spacing: 0px;
+  line-height: 28.8px;
+  position: absolute;
+  text-align: center;
+  top: -2.14%;
+  white-space: nowrap;
+  width: 100%;
+}
+
+.landing .icon-1-4kAu9j {
+  background-color: transparent;
+  height: 100px;
+  left: 120px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100px;
+}
+
+.landing .x1100-ATWekx {
+  background-color: transparent;
+  height: 232px;
+  left: 33.3%;
+  position: absolute;
+  top: 0px;
+  width: 33.3%;
+  /*width: 345px;*/
+}
+
+.landing .group-355-bpH3Vx {
+  background-color: transparent;
+  height: 232px;
+  left: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  top: 0px;
+  width: 345px;
+}
+
+.landing .group-354-BAo5QW {
+  background-color: transparent;
+  bottom: 0px;
+  height: 112px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.landing .lorem-ipsum-dol-eos-et-accusam-Q1peRN {
+  background-color: transparent;
+  height: 66.96%;
+  left: 0px;
+  letter-spacing: 0px;
+  line-height: 19.6px;
+  position: absolute;
+  text-align: left;
+  top: 32.32%;
+  width: 100.58%;
+}
+
+.landing .motion-capture-Q1peRN {
+  background-color: transparent;
+  height: 23.21%;
+  left: 0px;
+  letter-spacing: 0px;
+  line-height: 28.8px;
+  position: absolute;
+  text-align: center;
+  top: -2.14%;
+  white-space: nowrap;
+  width: 100%;
+}
+
+.landing .icon-1-BAo5QW {
+  background-color: transparent;
+  height: 100px;
+  left: 120px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100px;
+}
+
+.landing .x2100-ATWekx {
+  background-color: transparent;
+  height: 232px;
+  left: 66.6%;
+  position: absolute;
+  top: 0px;
+  width: 33.3%;
+  /*width: 345px;*/
+}
+
+.landing .group-355-UGSyW9 {
+  background-color: transparent;
+  height: 232px;
+  left: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  top: 0px;
+  width: 345px;
+}
+
+.landing .group-354-28Cnme {
+  background-color: transparent;
+  bottom: 0px;
+  height: 112px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.landing .lorem-ipsum-dol-eos-et-accusam-2aMQz4 {
+  background-color: transparent;
+  height: 66.96%;
+  left: 0px;
+  letter-spacing: 0px;
+  line-height: 19.6px;
+  position: absolute;
+  text-align: left;
+  top: 32.32%;
+  width: 100.58%;
+}
+
+.landing .x3-d-body-scanning-2aMQz4 {
+  background-color: transparent;
+  height: 23.21%;
+  left: 0px;
+  letter-spacing: 0px;
+  line-height: 28.8px;
+  position: absolute;
+  text-align: center;
+  top: -2.14%;
+  white-space: nowrap;
+  width: 100%;
+}
+
+.landing .icon-1-28Cnme {
+  background-color: transparent;
+  height: 100px;
+  left: 120px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100px;
+}
+
+.landing .x3100-ATWekx {
+  background-color: transparent;
+  height: 232px;
+  left: 1129px;
+  position: absolute;
+  top: 0px;
+  width: 345px;
+}
+
+.landing .group-355-ppAa0y {
+  background-color: transparent;
+  height: 232px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 345px;
+}
+
+.landing .group-354-0xO0Aa {
+  background-color: transparent;
+  bottom: 0px;
+  height: 112px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.landing .lorem-ipsum-dol-eos-et-accusam-VrREPM {
+  background-color: transparent;
+  height: 66.96%;
+  left: 0px;
+  letter-spacing: 0px;
+  line-height: 19.6px;
+  position: absolute;
+  text-align: left;
+  top: 32.32%;
+  width: 100.58%;
+}
+
+.landing .blockchain-development-VrREPM {
+  background-color: transparent;
+  height: 23.21%;
+  left: 0px;
+  letter-spacing: 0px;
+  line-height: 28.8px;
+  position: absolute;
+  text-align: left;
+  top: -2.14%;
+  white-space: nowrap;
+  width: 100%;
+}
+
+.landing .icon-1-0xO0Aa {
+  background-color: transparent;
+  height: 100px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100px;
+}
+
+.landing .x4100-ATWekx {
+  background-color: transparent;
+  height: 261px;
+  left: 0px;
+  position: absolute;
+  top: 327px;
+  width: 33.3%;
+}
+
+.landing .group-355-l3wt21 {
+  background-color: transparent;
+  height: 261px;
+  left: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  top: 0px;
+  width: 345px;
+}
+
+.landing .group-354-mLgBXO {
+  background-color: transparent;
+  bottom: 0px;
+  height: 141px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.landing .lorem-ipsum-dol-eos-et-accusam-t5F1c6 {
+  background-color: transparent;
+  height: 53.19%;
+  left: 0px;
+  letter-spacing: 0px;
+  line-height: 19.6px;
+  position: absolute;
+  text-align: left;
+  top: 46.24%;
+  width: 100.58%;
+}
+
+.landing .certified-nft-minting-process-t5F1c6 {
+  background-color: transparent;
+  height: 18.44%;
+  left: 0px;
+  letter-spacing: 0px;
+  line-height: 28.8px;
+  position: absolute;
+  text-align: center;
+  top: -1.7%;
+  white-space: nowrap;
+  width: 100%;
+}
+
+.landing .icon-1-mLgBXO {
+  background-color: transparent;
+  height: 100px;
+  left: 120px;
+  /*margin: auto;*/
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100px;
+}
+
+.landing .x5100-ATWekx {
+  background-color: transparent;
+  height: 261px;
+  left: 33.3%;
+  position: absolute;
+  top: 327px;
+  width: 33.3%;
+}
+
+.landing .group-355-2bHSZT {
+  background-color: transparent;
+  height: 261px;
+  left: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  top: 0px;
+  width: 345px;
+}
+
+.landing .group-354-B0vaZV {
+  background-color: transparent;
+  bottom: 0px;
+  height: 141px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.landing .lorem-ipsum-dol-eos-et-accusam-JeX5xQ {
+  background-color: transparent;
+  height: 53.19%;
+  left: 0px;
+  letter-spacing: 0px;
+  line-height: 19.6px;
+  position: absolute;
+  text-align: left;
+  top: 46.24%;
+  width: 100.58%;
+}
+
+.landing .backend-frontend-development-JeX5xQ {
+  background-color: transparent;
+  height: 39.01%;
+  left: 0px;
+  letter-spacing: 0px;
+  line-height: 28.8px;
+  position: absolute;
+  text-align: center;
+  top: -1.7%;
+  width: 100%;
+}
+
+.landing .icon-1-B0vaZV {
+  background-color: transparent;
+  height: 100px;
+  left: 120px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100px;
+}
+
+.landing .x6100-ATWekx {
+  background-color: transparent;
+  height: 232px;
+  left: 66.6%;
+  position: absolute;
+  top: 327px;
+  width: 33.3%;
+}
+
+.landing .group-355-AcoIFV {
+  background-color: transparent;
+  height: 232px;
+  left: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  top: 0px;
+  width: 345px;
+}
+
+.landing .group-354-VViomE {
+  background-color: transparent;
+  bottom: 0px;
+  height: 112px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.landing .lorem-ipsum-dol-eos-et-accusam-IBejaV {
+  background-color: transparent;
+  height: 66.96%;
+  left: 0px;
+  letter-spacing: 0px;
+  line-height: 19.6px;
+  position: absolute;
+  text-align: left;
+  top: 32.32%;
+  width: 100.58%;
+}
+
+.landing .x3-d-modelling-IBejaV {
+  background-color: transparent;
+  height: 23.21%;
+  left: 0px;
+  letter-spacing: 0px;
+  line-height: 28.8px;
+  position: absolute;
+  text-align: center;
+  top: -2.14%;
+  white-space: nowrap;
+  width: 100%;
+}
+
+.landing .icon-1-VViomE {
+  background-color: transparent;
+  height: 100px;
+  left: 120px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100px;
+}
+
+.landing .x7100-ATWekx {
+  background-color: transparent;
+  height: 232px;
+  left: 1129px;
+  position: absolute;
+  top: 327px;
+  width: 345px;
+}
+
+.landing .group-355-ePxaSq {
+  background-color: transparent;
+  height: 232px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 345px;
+}
+
+.landing .group-354-r13vus {
+  background-color: transparent;
+  bottom: 0px;
+  height: 112px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.landing .lorem-ipsum-dol-eos-et-accusam-YWqydy {
+  background-color: transparent;
+  height: 66.96%;
+  left: 0px;
+  letter-spacing: 0px;
+  line-height: 19.6px;
+  position: absolute;
+  text-align: left;
+  top: 32.32%;
+  width: 100.58%;
+}
+
+.landing .motion-capture-YWqydy {
+  background-color: transparent;
+  height: 23.21%;
+  left: 0px;
+  letter-spacing: 0px;
+  line-height: 28.8px;
+  position: absolute;
+  text-align: left;
+  top: -2.14%;
+  white-space: nowrap;
+  width: 100%;
+}
+
+.landing .icon-1-r13vus {
+  background-color: transparent;
+  height: 100px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100px;
+}
+
+.landing .business-inquiries-xvOGH9 {
+  background-color: transparent;
+  color: var(--vulcan);
+  font-family: var(--font-family-pragmatica-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  height: 36.36%;
+  left: 12.35%;
+  letter-spacing: 2.1px;
+  line-height: 16.8px;
+  position: absolute;
+  text-align: left;
+  top: 30.91%;
+  white-space: nowrap;
+  width: 76.13%;
+}
+
+.landing .built-with-section{
+  background-color: transparent;
+  top: 5%;
+  position: relative;
+  width: 100%;
+  height: 400px;
+}
+
+.landing .built-with-text {
+  background-color: transparent;
+  height: 75px;
+  letter-spacing: 0px;
+  line-height: 56px;
+  position: absolute;
+  text-align: center;
+  top: 2.5%;
+  white-space: nowrap;
+  width: 100%;
+}
+
+.landing .partner-logos-section{
+  background-color: transparent;
+  top: 50%;
+  position: absolute;
+  transform: translateY(-50%);
+  width: 100%;
+  height: 35%;
+}
+
+.landing .dapper-logo {
+  background-color: transparent;
+  top: 50%;
+  transform: translateY(-50%);
+  height: 75px;
+  left: calc(22.72% - 61px);
+  position: absolute;
+  width: 269px;
+}
+
+.landing .epic-games-logo {
+  background-color: transparent;
+  top: 50%;
+  transform: translateY(-50%);
+  height: 133px;
+  position: absolute;
+  right: calc(49.98% - 57px);
+  width: 115px;
+}
+
+.landing .blocto-logo {
+  background-color: transparent;
+  top: 50%;
+  transform: translateY(-50%);
+  height: 58px;
+  position: absolute;
+  right: calc(22.73% - 61px);
+  width: 270px;
+}
+
+.landing .nft-lab-line-3 {
+  background-color: transparent;
+  bottom: 0;
+  height: 1px;
+  left: 5.5%;
+  right: 5.5%;
+  object-fit: cover;
+  position: absolute;
+  width: 89%;
+}
+
+.landing .group-357-Ukp1Xt {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.landing .path-78-OoxrY7 {
+  background-color: transparent;
+  height: 58px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 53px;
+}
+
+.landing .path-79-OoxrY7 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 57px;
+  left: calc(43.88% - 18px);
+  object-fit: cover;
+  position: absolute;
+  width: 42px;
+}
+
+.landing .path-80-OoxrY7 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 57px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(35.47% - 15px);
+  width: 42px;
+}
+
+.landing .path-81-OoxrY7 {
+  background-color: transparent;
+  bottom: calc(46.49% - 19px);
+  height: 41px;
+  left: calc(24.63% - 9px);
+  object-fit: cover;
+  position: absolute;
+  width: 36px;
+}
+
+.landing .path-82-OoxrY7 {
+  background-color: transparent;
+  bottom: calc(46.46% - 19px);
+  height: 41px;
+  object-fit: cover;
+  position: absolute;
+  right: 37px;
+  width: 39px;
+}
+
+.landing .path-83-OoxrY7 {
+  background-color: transparent;
+  bottom: calc(47.79% - 19px);
+  height: 40px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 31px;
+}
+
+.landing .rectangle-14-mf6Xjy {
+  background-color: transparent;
+  height: 36px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 19px;
+}
+
+.landing .rectangle-15-mf6Xjy {
+  background-color: transparent;
+  height: 20px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(41.2% - 8px);
+  width: 20px;
+}
+
+.landing .path-96-mf6Xjy {
+  background-color: transparent;
+  bottom: 0px;
+  height: 20px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 42px;
+}
+
+.landing .group-359-mf6Xjy {
+  background-color: transparent;
+  bottom: calc(46.66% - 15px);
+  height: 32px;
+  position: absolute;
+  right: 0px;
+  width: 208px;
+}
+
+.landing .path-97-3wsT3L {
+  background-color: transparent;
+  height: calc(100% - 2px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 31px;
+}
+
+.landing .path-98-3wsT3L {
+  background-color: transparent;
+  height: 100%;
+  left: calc(35.35% - 13px);
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 37px;
+}
+
+.landing .path-99-3wsT3L {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 37px;
+}
+
+.landing .path-100-3wsT3L {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(41.87% - 15px);
+  top: 1px;
+  width: 36px;
+}
+
+.landing .path-101-3wsT3L {
+  background-color: transparent;
+  height: calc(100% - 2px);
+  object-fit: cover;
+  position: absolute;
+  right: calc(22.14% - 7px);
+  top: 1px;
+  width: 32px;
+}
+
+.landing .path-102-3wsT3L {
+  background-color: transparent;
+  height: calc(100% - 2px);
+  left: calc(18.42% - 5px);
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 25px;
+}
+
+.landing .stay-up-to-date-sec {
+  background-color: transparent;
+  top: 2.5%;
+  height: 52.5%;
+  position: relative;
+  width: 100%;
+
+}
+
+.landing .stay-up-to-date{
+  background-color: transparent;
+  top:5%;
+  height: 7.5%;
+  left: 20%;
+  letter-spacing: 0px;
+  line-height: 76px;
+  position: relative;
+  text-align: center;
+  width: 60%;
+}
+
+.landing .join-discord-outer {
+  background-color: transparent;
+  top: 10%;
+  height: 4.5%;
+  left: 27%;
+  position: relative;
+  width: 50%;
+}
+
+.landing .join-discord-text {
+  background-color: transparent;
+  color:white;
+  letter-spacing: 2.1px;
+  line-height: 16.8px;
+  position: absolute;
+  text-align: center;
+  top: 40%;
+  white-space: nowrap;
+  width: calc(100% - 62px);
+  font-size: 30px;
+  font-family: var(--font-family-pragmatica-book);
+}
+
+.landing .join-discord-inner {
+  /* background-color: var(--bright-turquoise); */
+  box-shadow: 0px 0px 10px #05f4b7;
+  border-radius: 50px;
+  height: 100%;
+  left: -2%;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.landing .digiyo-logo-lab {
+  background-color: transparent;
+  height: 200px;
+  margin-right: auto;
+  margin-left: auto;
+  position: relative;
+  top: 20%;
+  width: 700px;
+}
+
+.landing .bt-logo-lab {
+  background-color: transparent;
+  height: 300px;
+  margin-right: auto;
+  margin-left: auto;
+  position: relative;
+  top: 25%;
+  width: 300px;
+}
+
+.landing .social-media-icons{
+  background-color: transparent;
+  width: 25%;
+  height: 10%;
+  top: 25%;
+  position: relative;
+  left: 37.5%;
+  right: 37.5%;
+}
+
+.landing .twitter-logo{
+  background-color: transparent;
+  top: 50%;
+  transform: translateY(-50%);
+  position: absolute;
+  width:10%;
+  height: 35%;
+  left: 0;
+}
+
+.landing .ig-logo{
+  background-color: transparent;
+  top: 50%;
+  transform: translateY(-50%);
+  position: absolute;
+  width:10%;
+  height: 42%;
+  left: 45%;
+  right: 45%;
+}
+
+
+
+.landing .discord-logo{
+  background-color: transparent;
+  top: 50%;
+  transform: translateY(-50%);
+  position: absolute;
+  width:10%;
+  height: 49%;
+  right: 0;
+}
+
+.landing .under-social-icons-sec{
+  background-color: transparent;
+  /*height: 30%;*/
+  letter-spacing: 0px;
+  /*line-height: 100px;*/
+  position: relative;
+  text-align: center;
+  top: 0;
+  width: 100%;
+} 
+
+.landing .group-362-38pWqf {
+  background-color: transparent;
+  height: calc(100% - 15px);
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 48.98%;
+}
+
+.landing .group-125-1oN20T {
+  background-color: transparent;
+  bottom: 0px;
+  height: 54px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.landing .rectangle-132-cbQj6S {
+  background-color: var(--vulcan);
+  border: 1px solid #878b99;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.landing .join-our-discord {
+  background-color: transparent;
+  color: var(--concrete);
+  font-family: var(--font-family-pragmatica-book);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 18px;
+  left: 16px;
+  letter-spacing: 0px;
+  line-height: 22.4px;
+  opacity: 0.5;
+  position: absolute;
+  text-align: left;
+  top: calc(35.56% - 6px);
+  white-space: nowrap;
+  width: calc(100% - 30px);
+}
+
+.landing .join-discord {
+  background-color: transparent;
+  bottom: calc(105.22% - 21px);
+  color: var(--concrete);
+  font-family: var(--font-family-pragmaticaextended-bold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0px;
+  line-height: 25.2px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100% + 2px);
+}
+
+.landing .nav-bar {
+  background-color: transparent;
+  height: 8%;
+  max-height:8%;
+  left: 0%;
+  position: fixed;
+  top: 0%;
+  width: 100%;
+  z-index: 9999;
+}
+
+.landing .nav-bar-texture {
+  background: linear-gradient(180deg, #12151f 0%, rgba(18, 21, 31, 0.3) 100%);
+  background-color: transparent;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.landing .digiyo-logo-full {
+  background-color: transparent;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.landing .digiyo-logo-emblem {
+  background-color: transparent;
+  position: absolute;
+  left: 75px;
+  /*bottom:45%;*/
+  height: 4vh;
+  max-height:80px;
+  width: 7.5vw;
+  min-width:7.5vw;
+  max-width:7.5vw;
+  object-fit: contain;
+}
+
+.landing .digiyo-logo-name {
+  background-color: transparent;
+  height: 80%;
+  left: 6.9%;
+  position: absolute;
+  width:35%;
+  min-width: 35%;
+}
+
+.landing .digiyo-d {
+  background-color: transparent;
+  position: absolute;
+  left: 0%;
+  width: 45%;
+  height: 50%;
+  min-width:15px;
+  max-width:15px;
+}
+
+.landing .digiyo-i {
+  background-color: transparent;
+  position: absolute;
+  left: 3%;
+  width: 25%;
+  height: 50%;
+  min-width:5px;
+  max-width:5px;
+}
+
+.landing .digiyo-g {
+  background-color: transparent;
+  position: absolute;
+  left: 4.5%;
+  width: 75%;
+  height: 50%;
+  min-width:16px;
+  max-width:16px;
+  top:15%;
+}
+
+.landing .digiyo-i-2 {
+  background-color: transparent;
+  position: absolute;
+  left: 7.6%;
+  width: 25%;
+  height: 50%;
+  min-width:4px;
+  max-width:4px;
+}
+
+.landing .digiyo-y {
+  background-color: transparent;
+  position:relative;
+  left: 8.7%;
+  width: 50%;
+  height: 50%;
+  min-width:17px;
+  max-width:17px;
+}
+
+.landing .digiyo-o {
+  background-color: transparent;
+  position: absolute;
+  left: 11.2%;
+  width: 75%;
+  height: 35%;
+  min-width:15px;
+  max-width:15px;
+  top:15.7%;
+}
+
+
+.landing .nav-bar-line {
+  background-color: transparent;
+  bottom: 0%;
+  height: 2px;
+  left: 2.5%;
+  right: 2.5%;
+  object-fit: cover;
+  position: absolute;
+  width: 95%;
+}
+
+.landing .nav-bar-text-style {
+  font-size: 40px;
+  -webkit-text-stroke: 0.5px #05f4b7;
+	text-shadow: 30px 10px 100px #f3f3f3;
+  max-width: 50px;
+  min-width: 10px;
+}
+
+
+.landing .lab {
+  background-color: transparent;
+  height: calc(100% + 2px);
+  letter-spacing: 2.1px;
+  line-height: 16.8px;
+  position: absolute;
+  right: -2px;
+  text-align: right;
+  top: -1px;
+  white-space: nowrap;
+  width: 35px;
+}
+
+.landing .generator {
+  background-color: transparent;
+  height: calc(100% + 2px);
+  letter-spacing: 2.1px;
+  line-height: 16.8px;
+  position: absolute;
+  right: calc(32.46% - 40px);
+  text-align: right;
+  top: -1px;
+  white-space: nowrap;
+  width: 122px;
+}
+
+.landing .games {
+  background-color: transparent;
+  height: calc(100% + 2px);
+  left: 0px;
+  letter-spacing: 2.1px;
+  line-height: 16.8px;
+  position: absolute;
+  text-align: right;
+  top: -1px;
+  white-space: nowrap;
+  width: 101px;
+}
